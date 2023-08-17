@@ -5,12 +5,10 @@
 <div align="center"> 
 <a href="https://stardev.io/developers/Dinesh-Dlanzer"><img alt="Check out Dinesh-Dlanzer's profile on stardev.io" src="https://stardev.io/developers/Dinesh-Dlanzer/badge/languages/global.svg" /></a>
 </div>
-###
 
 <table>
   <tr>
-    <td valign="top" width="33%">
-    ### Frontend  
+    <td valign="top" width="33%"> 
     <div align="center">  
       <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
       <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
@@ -25,7 +23,6 @@
   
   </td>
   <td valign="top" width="33%">
-  ### Backend  
     <div align="center">  
       <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
       <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
@@ -40,7 +37,6 @@
   
   </td>
   <td valign="top" width="33%">
-  ### DevOps  
     <div align="center">  
       <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
       <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
@@ -57,7 +53,7 @@
 </table>  
 
 <br/>  
-###
+
 <div align="left">  
   <a href="https://www.linkedin.com/in/dinesh-v-525457201/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
     <a href="https://www.instagram.com/dineshdlanzer/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
