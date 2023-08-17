@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is <b>Dinesh</b> and I'm a founder <a href="https://dlanzer.com/"><b>DLanzer</b></a></h2>
 
 ###
 <a href="https://stardev.io/developers/Dinesh-Dlanzer"><img alt="Check out Dinesh-Dlanzer's profile on stardev.io" src="https://stardev.io/developers/Dinesh-Dlanzer/badge/languages/global.svg" /></a>
