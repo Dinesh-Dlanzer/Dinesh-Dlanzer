@@ -74,5 +74,3 @@
 
 <br/>  
 
-###
-<img src="https://raw.githubusercontent.com/Dinesh-Dlanzer/Dinesh-Dlanzer/output/snake.svg" alt="Snake animation" />
