@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
-<a href="https://stardev.io/developers/Dinesh-Dlanzer"><img alt="Check out Dinesh-Dlanzer's profile on stardev.io" src="https://stardev.io/developers/Dinesh-Dlanzer/badge/languages/locality.svg" /></a>
+<a href="https://stardev.io/developers/Dinesh-Dlanzer"><img alt="Check out Dinesh-Dlanzer's profile on stardev.io" src="https://stardev.io/developers/Dinesh-Dlanzer/badge/languages/global.svg" /></a>
 
 ###
 
