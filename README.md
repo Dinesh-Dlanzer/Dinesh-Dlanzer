@@ -2,8 +2,9 @@
 
 ###
 
+<div align="center"> 
 <a href="https://stardev.io/developers/Dinesh-Dlanzer"><img alt="Check out Dinesh-Dlanzer's profile on stardev.io" src="https://stardev.io/developers/Dinesh-Dlanzer/badge/languages/global.svg" /></a>
-
+</div>
 ###
 
 <table><tr><td valign="top" width="33%">
