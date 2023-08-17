@@ -1,11 +1,8 @@
 <h2 align="left">Hi 👋! My name is <b>Dinesh</b> and I'm a founder <a href="https://dlanzer.com/"><b>DLanzer</b></a></h2>
 
 ###
+
 <a href="https://stardev.io/developers/Dinesh-Dlanzer"><img alt="Check out Dinesh-Dlanzer's profile on stardev.io" src="https://stardev.io/developers/Dinesh-Dlanzer/badge/languages/global.svg" /></a>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
